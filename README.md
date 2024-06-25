@@ -1,15 +1,13 @@
-# meta-module-2
+Assessment of the Metacrafter ETH Beginner Module
 
-       REQUIREMENTS
-    1. Your contract will have public variables that store the details about your coin (Token Name, Token Abbrv., Total Supply)
-    2. Your contract will have a mapping of addresses to balances (address => uint)
-    3. You will have a mint function that takes two parameters: an address and a value. 
-       The function then increases the total supply by that number and increases the balance 
-       of the “sender” address by that amount
-    4. Your contract will have a burn function, which works the opposite of the mint function, as it will destroy tokens. 
-       It will take an address and value just like the mint functions. It will then deduct the value from the total supply 
-       and from the balance of the “sender”.
-    5. Lastly, your burn function should have conditionals to make sure the balance of "sender" is greater than or equal 
-       to the amount that is supposed to be burned.
+1. Welcome to the evaluation for the Metacrafter ETH Beginner Module! This test will walk you through the process of using Solidity to create a basic token contract that resembles an ERC-20.
 
-       this is assessment of metacrafters
+2. Contents Table Overview Overview You will design a simple smart contract for the "Metacrafter" token in this assessment. There will be a name, an acronym, and a total supply for the token. To control the supply of tokens, you will put minting and burning functions into place.
+
+3. Store public variables:
+
+Token Name: Token Shorthand Whole Stock a mapping that links the token balances of addresses.
+
+Tokens can be created and assigned to a specific address using the mint function.
+
+To ensure that an address has enough tokens to burn, a burn function can be used to delete tokens from that address.
