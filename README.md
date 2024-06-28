@@ -1,10 +1,10 @@
 Metacrafter ETH Beginner Module Assessment
 
-Overview
+1 : Overview
 
 Welcome to the Metacrafter ETH Beginner Module assessment! This guide helps you create a basic ERC-20-like token contract using Solidity. The "Metacrafter" token will include essential functionalities like minting new tokens and burning existing ones to manage the token supply.
 
-Getting Started
+2 : Getting Started
 
 Installation
 Clone the Repository:
@@ -34,7 +34,7 @@ Burning Tokens
 Burning Tokens:
 Burning tokens means permanently removing them from circulation. This process requires verifying that the address has enough tokens to burn.
 
-Troubleshooting
+3 : Troubleshooting
 
 If you encounter issues during the process, consider the following:
 
