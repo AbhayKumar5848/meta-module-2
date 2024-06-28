@@ -21,11 +21,13 @@ Creating the Token Contract
 Compile the Contract:
 
 Use a Solidity compiler (e.g., Remix, Truffle) to compile Metaassessment.sol.
+
 Deploy the Contract:
 
 Deploy the compiled contract on your desired Ethereum network.
 
 Minting Tokens
+
 Minting New Tokens:
 Minting allows you to create new tokens and assign them to specific addresses.
 
