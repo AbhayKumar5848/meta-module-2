@@ -10,6 +10,7 @@ Installation
 Clone the Repository:
 
 Clone the project repository from GitHub.
+
 Navigate to Project Directory:
 
 Open the project folder on your local machine.
