@@ -30,13 +30,19 @@ Minting allows you to create new tokens and assign them to specific addresses.
 
 
 Burning Tokens
+
 Burning Tokens:
 Burning tokens means permanently removing them from circulation. This process requires verifying that the address has enough tokens to burn.
 
 Troubleshooting
+
 If you encounter issues during the process, consider the following:
 
 Problem: Describe the issue you're facing.
+
 Solution: Steps or considerations to resolve the problem.
+
+
 Author
+
 Author: Abhay Kumar
